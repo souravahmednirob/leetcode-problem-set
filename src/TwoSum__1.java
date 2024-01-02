@@ -20,7 +20,6 @@ public class TwoSum__1 {
 
     /**
      * Optimized Solution
-     *
      * Time complexity O(n)
      * Space complexity O(n)
      */
